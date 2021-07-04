@@ -1,0 +1,46 @@
+Body{
+    font-family: 'Roboto Slab', serif;
+    margin:0;
+}
+
+/*this is first header section*/
+h1{
+    font-size: 50px;
+}
+p{
+    font-size:18px;
+    text-align: justify;
+}
+.name-color{
+    color:darkorange;
+}
+section{
+    display: flex;
+
+}
+.half-width{
+    width:50%;
+    padding-left:4%;
+
+}
+.half-width img{
+    width:60%;
+    padding-left: 10%;
+    padding-top:15px
+
+}
+.link-button{
+    text-decoration: none;
+    padding:8px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(255, 0, 221), tomato);
+    color: #fff;
+    font-weight: 500;
+}
+.bg-image{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+/*this is first header section*/
+
